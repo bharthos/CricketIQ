@@ -50,7 +50,7 @@ Or fire up RStudio and dive into the `.R` files.
 ## 🙌 About Me
 
 Hey! I'm Bharath — a data enthusiast with a passion for storytelling through numbers (and cricket). I’ve got 4+ years of experience making sense of chaos and transforming it into insight.  
-Feel free to connect with me on [LinkedIn](#) or reach out!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bharath-raju-software-engineer/) or reach out!
 
 ---
 
