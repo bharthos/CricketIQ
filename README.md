@@ -8,10 +8,10 @@ Welcome to **Cricket Analytics Madness**, where data meets sixes, SQL meets boun
 
 | File | Description |
 |------|-------------|
-| `Final_BharathRajuKM(G01449565).ipynb` | Python notebook packed with visualizations and insights. Pandas, plots, and pure cricket data gold. |
-| `Final_BharathRajuKM(G01449565).sql` | SQL queries that ask the *real* questions: Who wins more at home? Which ground sees the most action? |
+| `CricketIQ_DataAnalysis.ipynb` | Python notebook packed with visualizations and insights. Pandas, plots, and pure cricket data gold. |
+| `CricketIQ_SQLQueries.sql` | SQL queries that ask the *real* questions: Who wins more at home? Which ground sees the most action? |
 | `Men T20I Team Match Results - 21st Century.csv` | The raw dataset — the heart of the analysis. Every T20I match result since the dawn of the format. |
-| `analysis.R` *(Coming soon or already added)* | R scripts for data wrangling and exploration the stats nerds will love. |
+| `CricketIQ_StatsModeling.R` | R scripts for data wrangling and exploration the stats nerds will love. |
 
 ---
 
